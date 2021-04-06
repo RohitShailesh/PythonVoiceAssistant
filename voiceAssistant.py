@@ -72,10 +72,10 @@ def runPy():
         speak(news)
     elif 'open YouTube' in command:
         webbrowser.open("youtube.com")
-        speak("openning")
+        speak("openning youtube")
     elif 'open Google' in command:
         webbrowser.open("google.com")
-        speak("openning")
+        speak("openning google ")
 
 
 
