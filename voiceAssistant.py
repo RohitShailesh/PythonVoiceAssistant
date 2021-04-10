@@ -49,6 +49,7 @@ def takeCommand():
     return query
 
 
+
 def runPy():
     command=takeCommand()
     print(command)
@@ -80,7 +81,6 @@ def runPy():
 
 
 runPy()
-
 
 
         
