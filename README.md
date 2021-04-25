@@ -1,5 +1,6 @@
 # PythonVoiceAssistant
-Python based Voice Assistant
+Python based Voice Assistant.
+
 
 Voice assistant which is programmed to automate and perform tasks like playing songs and videos, 
 searching Wikipedia for information, tells jokes, 
